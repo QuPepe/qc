@@ -10,7 +10,7 @@ conda create -n qc python=3.11 -y
 
 conda activate qc
 
-pip install "qiskit~=2.3.1" qiskit-aer qiskit_ibm_runtime jupyterlab matplotlib
+pip install jupyterlab matplotlib "qiskit~=2.3.1" qiskit-aer qiskit_ibm_runtime
 
 pip install qiskit-algorithms qiskit-finance
 
