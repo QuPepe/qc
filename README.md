@@ -1,6 +1,7 @@
 # Quantum Computing Tutorials
 
 conda env list
+
 conda info --envs
 
 conda remove --name qc --all
