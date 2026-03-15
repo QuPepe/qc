@@ -22,7 +22,7 @@
 
 ## Run JupyterLab
 
-`jupyter lab --notebook-dir="D:\OneDrive\OneDrive - National ChengChi University\QC\Python"`
+`jupyter lab --notebook-dir="D:\QC"`
 
 ## Deactivate the environment
 
