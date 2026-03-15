@@ -22,15 +22,15 @@
 
 ## Run JupyterLab
 
-jupyter lab --notebook-dir="D:\OneDrive\OneDrive - National ChengChi University\QC\Python"
+`jupyter lab --notebook-dir="D:\OneDrive\OneDrive - National ChengChi University\QC\Python"`
 
 ## Deactivate the environment
 
-conda deactivate
+`conda deactivate`
 
 ## Remove the environment
 
-conda remove --name qc --all
+`conda remove --name qc --all`
 
 ## IBM Cloud API Keys
 
