@@ -1,9 +1,7 @@
 # Quantum Computing Tutorials
 
 ## List environments
-
 conda env list
-
 conda info --envs
 
 ## Create an environment: qc
