@@ -32,7 +32,8 @@
 
 `conda remove --name qc --all`
 
-## VS Code Extensions: Jupyter, Black Formatter
+## VS Code Extensions
+Jupyter, Black Formatter
 
 ## IBM Cloud API Keys
 
