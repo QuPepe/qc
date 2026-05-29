@@ -16,7 +16,7 @@
 
 ## Install packages
 
-`pip install jupyterlab matplotlib seaborn "qiskit~=2.3.1" qiskit-aer qiskit_ibm_runtime`
+`pip install ipykernel jupyterlab matplotlib seaborn "qiskit~=2.3.1" qiskit-aer qiskit_ibm_runtime`
 
 `pip install qiskit-algorithms qiskit-finance hashable-list ordered_set pylatexenc`
 
