@@ -20,6 +20,8 @@
 
 `pip install qiskit-algorithms qiskit-finance hashable-list ordered_set pylatexenc`
 
+`python -m ipykernel install --user --name qc`
+
 ## Run JupyterLab
 
 `jupyter lab --notebook-dir="D:\QC"`
