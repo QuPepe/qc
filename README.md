@@ -63,7 +63,7 @@ jupyter kernelspec list
 ## Run JupyterLab
 
 ```
-jupyter lab --notebook-dir="YOUR_NOTEBOOK_DIR"
+jupyter lab --notebook-dir=<YOUR_NOTEBOOK_DIR>
 ```
 
 ## Deactivate the environment
